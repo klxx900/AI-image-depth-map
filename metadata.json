@@ -1,0 +1,5 @@
+{
+  "name": "AI 图像编辑器",
+  "description": "一个多功能 AI 图像处理应用。您可以使用文本指令编辑图片，或一键生成高质量的深度图。",
+  "requestFramePermissions": []
+}
